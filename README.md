@@ -8,5 +8,3 @@ First commit
 3rd change
 <br>
 learning pull so i am making this change
-<br>
-Learning merge so i am making this change
